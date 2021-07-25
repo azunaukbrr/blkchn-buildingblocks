@@ -43,12 +43,12 @@ Congrats! you have started both nodes. Keep them running during the next set of 
 
 Network Setup
 - In the MyCrypto app, change network to "Add Custom Node" then create the node using information setup from the block genesis. 
-![change network](./scshts/2.JPG)
+![change network](./scshts/2.PNG)
 
 
 - The network should be set to custom, currency to ETH, and chainID is the same from the genesis. Save & Use when finished.
     - Note the URL is the same as the sample just **http://** instead of https://.
-    ![custom node setup](./scshts/1.JPG)
+    ![custom node setup](./scshts/1.PNG)
 
 Wallet Setup
 - In Create New Wallet, select Generate a Wallet and then choose Mnemonic Phrase on the following screen. Save the phrase.
@@ -59,13 +59,13 @@ Accessing the Wallet
 Transaction
 - Select Send Ether from the top bar, then input the address to send ETH to and the amount to send. 
 - Feel free to mess with the fees, just note that in real transactions paying higher fees will usually equate to a better probability your transaction is verified on the blockchain. Hit send and then confirm on the next popup.
-![send transaction](./scshts/7.JPG)
+![send transaction](./scshts/7.PNG)
 
 - After successfully sending the transaction, a TX status green box will appear at the bottom with a hash indicating the transaction. 
-![send transaction](./scshts/8.JPG)
+![send transaction](./scshts/8.PNG)
 
 -This can be seen in terminal window as well
-![send transaction](./scshts/9.JPG)
+![send transaction](./scshts/9.PNG)
 
 -And finally in the other wallet
-![send transaction](./scshts/10.JPG)
+![send transaction](./scshts/10.PNG)
